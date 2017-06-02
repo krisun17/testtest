@@ -1,7 +1,7 @@
 echoerr() {
  cat <<< "$@" 1>&2;
 }
-echo "SOURCE FROM TESTING TESTING TESTING"
+echo "SOURCE FROM TEST TEST"
 
 #target dir global setting
 targetdir=/icm/hydra/temp/wrf/wrf_${timestamp}_${suffix}
