@@ -15,6 +15,6 @@ hpc=$4
 
 source shared/common.sh
 
-sleep 3m
+sleep 1m
 
 echo "$(date): Input sync completed successfully."
